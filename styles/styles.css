@@ -9,19 +9,17 @@ html, body {
 	margin: 0;
 }
 
-.header {
+header, section, footer {
+	display:block;
+}
+
+header {
 	background-color:#ffffff;
 	width:100%;
 	margin:0px;
 }
 
-.container {
-	width:900px;
-	margin:0px auto;
-	padding:10px 0px;
-}
-
-.main {
+section {
 	background-color:#DFDEE0;
 }
 
@@ -29,6 +27,12 @@ footer {
 	color:#ffffff;
 	font-size:.7em;
 	text-align:right;
+}
+
+.container {
+	width:900px;
+	margin:0px auto;
+	padding:10px 0px;
 }
 
 p {

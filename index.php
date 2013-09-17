@@ -7,12 +7,12 @@
     <link href='http://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css' />
   </head>
   <body>
-  	<div class="header">
+  	<header>
     	<div class="container">
     		<h1>Linda Curty</h1>
       </div>
-    </div>
-    <div class="main">
+    </header>
+    <section>
     	<div class="container">
         <img src="images/curty-headshot.png" alt="Linda Curty Headshot" />
         <hr class="clear" />
@@ -26,7 +26,7 @@
         <h2>Code Editor</h2>
         <p>I am using Adobe Dreamweaver CS5.5 as my code editor.</p>
     	</div>
-    </div>
+    </section>
   <footer><div class="container">
       <p>&copy;2013 | <a href="mailto:lcurty@g.harvard.edu">Linda Curty</a></p>
   </div></footer>
