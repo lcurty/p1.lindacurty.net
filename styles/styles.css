@@ -53,6 +53,14 @@ img {
 	padding:25px 30px 15px 0px;
 }
 
+hr {
+	width:90%;
+	color:#804040;
+	margin:0px auto;
+	height:2px;
+	background-color:#804040;
+}
+
 hr.clear {
 	float:none;
 	display:none;
